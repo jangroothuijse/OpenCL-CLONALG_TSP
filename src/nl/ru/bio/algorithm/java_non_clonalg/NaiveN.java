@@ -6,8 +6,7 @@ package nl.ru.bio.algorithm.java_non_clonalg;
 import nl.ru.bio.algorithm.IAlgorithm;
 
 /**
- * @author jan
- *
+ * @authors Jan Groothijse, Niklas Weber, Rob Tiemens
  */
 public class NaiveN implements IAlgorithm {
 

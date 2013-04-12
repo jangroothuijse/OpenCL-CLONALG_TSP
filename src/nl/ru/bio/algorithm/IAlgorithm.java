@@ -1,6 +1,8 @@
 package nl.ru.bio.algorithm;
 
-
+/**
+ *  @authors Jan Groothijse, Niklas Weber, Rob Tiemens
+ */
 public interface IAlgorithm {
 	/**
 	 * Calculates a path

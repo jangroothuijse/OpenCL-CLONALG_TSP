@@ -7,8 +7,7 @@ import java.util.NoSuchElementException;
 import java.util.TreeSet;
 
 /**
- * @author niklas
- * 
+ * @authors Jan Groothijse, Niklas Weber, Rob Tiemens
  */
 public class ClonalgOptimController {
 

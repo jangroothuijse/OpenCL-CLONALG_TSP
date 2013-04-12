@@ -1,7 +1,9 @@
 package nl.ru.bio.algorithm.java;
 
 import java.util.ArrayList;
-
+/**
+ * @authors Jan Groothijse, Niklas Weber, Rob Tiemens
+ */
 public abstract class Antibody implements Comparable<Antibody>{
 	
 	public float affinity = Float.NEGATIVE_INFINITY;

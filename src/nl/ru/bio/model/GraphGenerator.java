@@ -1,11 +1,8 @@
-/**
- * 
- */
 package nl.ru.bio.model;
 
 /**
  * Utility class to generate graphs, @see Graph * 
- * @author jan
+ * @authors Jan Groothijse, Niklas Weber, Rob Tiemens
  */
 public class GraphGenerator {
 	
@@ -15,7 +12,7 @@ public class GraphGenerator {
 	 * Given a number of vertices, generates a fully connected graph
 	 * which is returned as an array of float, length of the array is size^2
 	 * @param graphSize
-	 * @return
+	 * @return the graph
 	 */
 	public static float[] fullyConnectedSymmetric(int graphSize) {
 		float[] result = new float[graphSize * graphSize];

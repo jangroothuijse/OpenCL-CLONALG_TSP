@@ -14,8 +14,8 @@ import nl.ru.bio.model.Graph;
 
 import org.jocl.*;
 /**
- * Proof of concept, massively parallel merge sort
- * @author jan
+ * OpenCL Host code for massively parallel CLONALG TSP Optimizer using radix sort
+ * @authors Jan Groothijse, Niklas Weber, Rob Tiemens
  */
 public class CLONALGWithMergeSort {
 	private cl_context context;
@@ -221,6 +221,7 @@ public class CLONALGWithMergeSort {
      * if the file can not be read.
      * 
      * @param fileName The name of the file to read.
+     * .. parameters for the kernel...
      * @return The contents of the file
      */
     private String readFile(String fileName, int pathSize, int popSize, 

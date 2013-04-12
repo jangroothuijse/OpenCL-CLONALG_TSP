@@ -1,7 +1,12 @@
 package nl.ru.bio.algorithm.opencl;
 
 import org.jocl.CL;
-
+/**
+ * A version that looks for a CPU type OpenCL device, 
+ * so its still OpenCL, but compiled by the a compiler made by your CPU
+ * manufacturer, using every last instruction set extension available on it.
+ * @authors Jan Groothijse, Niklas Weber, Rob Tiemens
+ */
 public class CLONALGWithMergeSortCPU extends CLONALGWithMergeSort {
     protected long deviceType() {
     	return CL.CL_DEVICE_TYPE_CPU;

@@ -1,5 +1,7 @@
 package nl.ru.bio.helper;
-
+/**
+ * @authors Jan Groothijse, Niklas Weber, Rob Tiemens
+ */
 public class Coordinate {
 	public int x;
 	public int y;

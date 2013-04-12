@@ -5,8 +5,8 @@ import java.util.Arrays;
 import java.util.Random;
 
 /**
- * @author niklas
- *	The Travelling Salesperson (TSP) implementation of the abstract antibody class
+ * @authors Jan Groothijse, Niklas Weber, Rob Tiemens
+ * The Travelling Salesperson (TSP) implementation of the abstract antibody class
  */
 public class TSPAntibody extends Antibody {
 	

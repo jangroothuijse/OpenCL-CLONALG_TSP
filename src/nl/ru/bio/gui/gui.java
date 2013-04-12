@@ -35,7 +35,9 @@ import org.jgrapht.graph.ListenableUndirectedWeightedGraph;
 import org.jgrapht.alg.HamiltonianCycle;
 
 
-
+/**
+ * @authors Jan Groothijse, Niklas Weber, Rob Tiemens
+ */
 public class gui extends JPanel implements ActionListener {
     JButton startButton;
     JButton randomButton;

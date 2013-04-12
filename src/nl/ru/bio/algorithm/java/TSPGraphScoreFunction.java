@@ -6,7 +6,7 @@ package nl.ru.bio.algorithm.java;
 import nl.ru.bio.model.Graph;
 
 /**
- * @author niklas
+ * @authors Jan Groothijse, Niklas Weber, Rob Tiemens
  * Given a graph, this score function gives affinities to antibodies
  */
 public class TSPGraphScoreFunction extends ScoreFunction {
