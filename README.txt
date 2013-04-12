@@ -19,7 +19,8 @@ Runtime requirements:
 	installed capable of running OpenCL 1.1, Intel, AMD and nVidia drivers 
 	for videochips not older than 4 years generaly meet this demand.
 	
-	To use OpenCL on the CPU we recommend using SDK's from the manufacturer of your CPU:
+	To use OpenCL on the CPU we recommend using SDK's from the manufacturer
+	of your CPU:
 	Intel:	http://software.intel.com/en-us/vcsource/tools/opencl-sdk
 	AMD:	http://developer.amd.com/tools/heterogeneous-computing/amd-accelerated-parallel-processing-app-sdk/downloads/
 	
