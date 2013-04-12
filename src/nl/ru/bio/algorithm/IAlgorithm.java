@@ -1,7 +1,7 @@
 package nl.ru.bio.algorithm;
 
 /**
- *  @authors Jan Groothijse, Niklas Weber, Rob Tiemens
+ *  @authors Jan Groothuijse, Niklas Weber, Rob Tiemens
  */
 public interface IAlgorithm {
 	/**

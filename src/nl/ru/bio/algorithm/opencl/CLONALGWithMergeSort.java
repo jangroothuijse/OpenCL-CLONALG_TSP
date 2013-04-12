@@ -15,7 +15,7 @@ import nl.ru.bio.model.Graph;
 import org.jocl.*;
 /**
  * OpenCL Host code for massively parallel CLONALG TSP Optimizer using radix sort
- * @authors Jan Groothijse, Niklas Weber, Rob Tiemens
+ * @authors Jan Groothuijse, Niklas Weber, Rob Tiemens
  */
 public class CLONALGWithMergeSort {
 	private cl_context context;

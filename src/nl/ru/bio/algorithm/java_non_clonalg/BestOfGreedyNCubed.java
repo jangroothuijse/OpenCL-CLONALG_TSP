@@ -4,7 +4,7 @@
 package nl.ru.bio.algorithm.java_non_clonalg;
 
 /**
- * @authors Jan Groothijse, Niklas Weber, Rob Tiemens
+ * @authors Jan Groothuijse, Niklas Weber, Rob Tiemens
  */
 public class BestOfGreedyNCubed extends GreedyNSquared {
 	/**

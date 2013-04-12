@@ -4,7 +4,7 @@ import nl.ru.bio.algorithm.IAlgorithm;
 import nl.ru.bio.model.Graph;
 /**
  * Code explains itself
- * @authors Jan Groothijse, Niklas Weber, Rob Tiemens
+ * @authors Jan Groothuijse, Niklas Weber, Rob Tiemens
  * 64 vertices max
  */
 public class HeuristicNCubed implements IAlgorithm {

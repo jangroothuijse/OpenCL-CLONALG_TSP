@@ -3,7 +3,7 @@ package nl.ru.bio.algorithm.java_non_clonalg;
 import nl.ru.bio.algorithm.IAlgorithm;
 
 /**
- * @authors Jan Groothijse, Niklas Weber, Rob Tiemens
+ * @authors Jan Groothuijse, Niklas Weber, Rob Tiemens
  * Standard greedy algororithm, implemented using bitwise operators which limits
  * the graphsize to 64.
  */

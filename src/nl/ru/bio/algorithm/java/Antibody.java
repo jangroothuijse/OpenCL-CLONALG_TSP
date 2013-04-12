@@ -2,7 +2,7 @@ package nl.ru.bio.algorithm.java;
 
 import java.util.ArrayList;
 /**
- * @authors Jan Groothijse, Niklas Weber, Rob Tiemens
+ * @authors Jan Groothuijse, Niklas Weber, Rob Tiemens
  */
 public abstract class Antibody implements Comparable<Antibody>{
 	

@@ -2,7 +2,7 @@ package nl.ru.bio.model;
 
 /**
  * Utility class to generate graphs, @see Graph * 
- * @authors Jan Groothijse, Niklas Weber, Rob Tiemens
+ * @authors Jan Groothuijse, Niklas Weber, Rob Tiemens
  */
 public class GraphGenerator {
 	

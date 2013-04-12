@@ -22,7 +22,7 @@ import java.util.Random;
  * 
  * 2D[i][j] = 1D[i * sqrt(1D.length) + j]
  * 
- * @authors Jan Groothijse, Niklas Weber, Rob Tiemens
+ * @authors Jan Groothuijse, Niklas Weber, Rob Tiemens
  */
 public final class Graph {
 	

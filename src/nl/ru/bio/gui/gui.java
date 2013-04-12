@@ -36,7 +36,7 @@ import org.jgrapht.alg.HamiltonianCycle;
 
 
 /**
- * @authors Jan Groothijse, Niklas Weber, Rob Tiemens
+ * @authors Jan Groothuijse, Niklas Weber, Rob Tiemens
  */
 public class gui extends JPanel implements ActionListener {
     JButton startButton;
