@@ -1,6 +1,6 @@
 A parrallel version of CLONALG implemented as a TSP Optimizer using OpenCL.
 
-authors Jan Groothijse, Niklas Weber, Rob Tiemens
+authors Jan Groothuijse, Niklas Weber, Rob Tiemens
 
 Compilation requirements:
 	Java 7
